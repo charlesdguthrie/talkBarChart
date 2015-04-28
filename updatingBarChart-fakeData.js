@@ -3,8 +3,8 @@
 var setup = function(targetID){
 	//Set size of svg element and chart
 	var margin = {top: 0, right: 0, bottom: 0, left: 0},
-		width = 600 - margin.left - margin.right,
-		height = 400 - margin.top - margin.bottom,
+		width = 960 - margin.left - margin.right,
+		height = 700 - margin.top - margin.bottom,
 		categoryIndent = 4*15 + 5,
 		defaultBarWidth = 2000;
 

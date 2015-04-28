@@ -22,7 +22,7 @@ time, mark, audio, video {
 }
 
 h1 {
-	font-size:150%;
+	font-size:200%;
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 300;
 	text-align: left;
@@ -30,19 +30,19 @@ h1 {
 	margin-bottom: 5px;
 }
 h2 {
-	font-size: 12px;
+	font-size: 24px;
 	font-style: italic;
 	color: gray;
 	margin-top:5px;
 	margin-bottom:5px;
 }
 #everything{
-	width:600px;
+	width:960px;
 	margin:20px;
 }
 #chart{
-	width:600px;
-	height:400px;
+	width:960px;
+	height:700px;
 }
 .bar{
 	fill:#eaeaea;
@@ -50,11 +50,11 @@ h2 {
 text.label{
 	fill: #777777;
 	color: #777777;
-	font-size: 20px;
+	font-size: 28px;
 	font-weight: bold;
 }
 text.category{
 	fill: #666666;
-	font-size: 14px;
+	font-size: 20px;
 }
 
