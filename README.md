@@ -1,2 +1,4 @@
-# talkBarChart
-Slightly bigger version of the updating bar chart
+updatingBarChart
+================
+
+A bar chart that updates live with new incoming data
